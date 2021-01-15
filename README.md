@@ -15,7 +15,7 @@ Listele kısmını tıkladığınızda kullanıcıları bu şekilde listeler.
 
 ![Listele](/images/list.png)
 
-En son çıkış yapmak istediğinizde size emin olup olmadığınızı sorar.
+En son çıkış yapmak istediğinizde yada iptal tamam buttonlarına bastığınızda size emin olup olmadığınızı sorar.
 
 ![Cıkıs](/images/cıkıs.png)
 
